@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mMnCreate"
+        android:title="Create"
+        ></item>
+
+    <item android:id="@+id/mMnSetting"
+        android:title="Setting"
+        ></item>
+
+    <item android:id="@+id/mMnLogout"
+        android:title="Logout"></item>
+</menu>
