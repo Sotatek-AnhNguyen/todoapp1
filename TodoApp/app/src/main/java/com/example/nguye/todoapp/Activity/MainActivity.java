@@ -66,6 +66,9 @@ public class MainActivity extends AppCompatActivity {
         layoutManager.setOrientation(LinearLayoutManager.VERTICAL);
         mRcvMain.setLayoutManager(layoutManager);
         mRcvMain.setAdapter(adapterMain);
+
+// thémladkasdlask
+//jwjbdjwbjdbw
     }
 
     private Handler handler = new Handler(){
